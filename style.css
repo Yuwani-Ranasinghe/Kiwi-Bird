@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Roboto:wght@500&display=swap');
+
+h1{
+    font-family: 'Roboto';
+}
+span{
+    color: red;
+}
+p{
+    font-size: large;
+}
+#image{
+    margin-left: 10%;
+}
+
+.img-change{
+   
+    width: 250px;
+    height: 250px;
+}
+#protect{
+    font-size: 50px;
+    font-family:'Dancing Script' ;
+    margin-left: 30%;
+}
+div{
+    margin-right: 10%;
+}
+ul li::before {
+    content: "\25A0";
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+.colomn-left {
+    float: left;
+    width: 45%;
+  }
+
+.colomn-Right{
+    background-color: beige;
+    float: left;
+    width: 35%;
+}
+
+#pg-dis{
+    font-size: 10px;
+}
+
+#title-spesification{
+    font-size: 20px;
+    background-color:chocolate;
+
+}
+
+#last-one{
+    font-family: 'Dancing+Script';
+}
+
+.science-tags{
+    color: blue;
+}
+
+#title-type{
+    background-color: #1D8348;
+}
+
+#linkTag{
+    font-size: large;
+}
+  
